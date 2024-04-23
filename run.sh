@@ -1,1 +1,2 @@
-# Update this file to run your own code
+echo "Running the script"
+python main.py  # Execute the script
